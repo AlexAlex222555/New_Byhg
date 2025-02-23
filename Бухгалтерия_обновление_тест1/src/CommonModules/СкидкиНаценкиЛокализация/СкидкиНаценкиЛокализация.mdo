@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="64859ccc-562f-4879-a0da-016263e17081">
+  <name>СкидкиНаценкиЛокализация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Скидки и наценки (Локализация)</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Знижки і націнки (Локалізація)</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

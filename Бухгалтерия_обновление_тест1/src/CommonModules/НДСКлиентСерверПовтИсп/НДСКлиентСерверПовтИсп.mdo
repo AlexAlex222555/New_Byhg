@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="77bc3d4b-7a4d-4500-928b-da5fee4558f6">
+  <name>НДСКлиентСерверПовтИсп</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учет НДС (клиент-сервер повт. исп.)</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>VAT accounting RF (client-server cached)</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Облік ПДВ (клієнт-сервер повт. вик.)</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+  <returnValuesReuse>DuringSession</returnValuesReuse>
+</mdclass:CommonModule>
