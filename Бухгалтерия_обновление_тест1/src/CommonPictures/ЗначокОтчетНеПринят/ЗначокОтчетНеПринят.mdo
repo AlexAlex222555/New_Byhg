@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c416d03c-bcca-4da7-af28-93879fd22ab4">
+  <name>ЗначокОтчетНеПринят</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок отчет не принят</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок звіт не прийнятий</value>
+  </synonym>
+  <transparentPixel>
+    <x>4</x>
+    <y>1</y>
+  </transparentPixel>
+</mdclass:CommonPicture>
